@@ -1,5 +1,5 @@
 # MPPTforPV
-This is a MPPT for PV array under partial shading condition file that was built in MATLAB/Simulink version 2020b. Three models are MPPT based on INC, PSO, and the JEINC (In the corresponding )
+This is a MPPT for PV array under partial shading condition file that was built in MATLAB/Simulink version 2020b. Three models are MPPT based on INC, PSO, and the JEINC (proposed in the corresponding pdf)
 
 # Research on Global Maximum Power Point Tracking Control of PV Arrays Based on Jump Explore Incremental Conductance Method
 
